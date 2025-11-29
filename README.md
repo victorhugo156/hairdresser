@@ -1,49 +1,25 @@
-# Hairdresser Website Project
+# 💇‍♀️ Hairdresser Website
 
-This project showcases a website I developed for a hairdresser, aimed at practicing and enhancing my skills in HTML, CSS, and JavaScript. The website features a user-friendly design, responsive layout, and interactive elements to provide a seamless experience for visitors.
+A modern, responsive website developed for a hairdresser business. Built as a personal project to practice and enhance my skills in **HTML**, **CSS**, and **JavaScript**.
 
-## Features
-- **Modern, user-friendly design**
-- **Responsive layout** for desktop and mobile devices
-- **Interactive elements** using JavaScript
-- **Custom icon set** (IcoMoon)
-- Organized asset structure for images and icons
+![Website Preview](./assets/img/preview.png)
 
-## Project Structure
-```
-base.css
-index.html
-main.js
-reset.css
-style.css
-variable.css
-assets/
-  icons/
-    icomoon/
-      demo.html
-      Read Me.txt
-      selection.json
-      style.css
-      demo-files/
-        demo.css
-        demo.js
-      fonts/
-  img/
-  photos/
-```
+## ✨ Features
 
-## Getting Started
-1. Clone or download the repository.
-2. Open `index.html` in your web browser to view the site.
-3. All styles and scripts are included locally; no build step is required.
+- 🎨 **Modern UI/UX** — Clean, professional design tailored for a beauty business
+- 📱 **Fully Responsive** — Optimized for desktop, tablet, and mobile devices
+- ⚡ **Interactive Elements** — Smooth animations and dynamic components using JavaScript
+- 🎯 **Custom Icon Set** — Integrated IcoMoon icons for a cohesive visual identity
+- 🏗️ **Modular CSS Architecture** — Organized with variables, resets, and base styles for maintainability
 
-## Technologies Used
-- HTML5
-- CSS3 (including custom variables and resets)
-- JavaScript (ES6)
+## 🛠️ Technologies Used
 
-## Credits
-- Icons generated with [IcoMoon](https://icomoon.io/)
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Semantic markup and page structure |
+| **CSS3** | Styling, animations, Flexbox/Grid layouts |
+| **JavaScript (ES6)** | Interactivity and DOM manipulation |
+| **CSS Variables** | Consistent theming and easy customization |
+| **IcoMoon** | Custom icon font generation |
 
-## License
-This project is for educational and portfolio purposes.
+## 📁 Project Structure
